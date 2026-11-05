@@ -1,0 +1,6 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+python-multipart==0.0.20
+PyJWT==2.10.1
+email-validator==2.2.0
+Pillow==11.1.0
