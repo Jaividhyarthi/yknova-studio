@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pulse-metrics",
+    "name": "Pulse Metrics",
+    "kind": "Animated Dashboard",
+    "price": 799,
+    "tag": "Dashboard",
+    "desc": "A responsive analytics command center with live-feeling charts, KPI cards, time filters and a polished dark interface.",
+    "gradient": "linear-gradient(135deg,#102f2e,#173e3a 48%,#83dfae)",
+    "symbol": "\u25eb",
+    "feature": "Interactive weekly/monthly views",
+    "accent": "#a1f0b7"
+  },
+  {
+    "id": "orbit-auth",
+    "name": "Orbit Auth",
+    "kind": "Authentication UI",
+    "price": 299,
+    "tag": "Components",
+    "desc": "Beautiful, accessible sign-in and sign-up interface with password visibility, validation, and subtle motion.",
+    "gradient": "linear-gradient(135deg,#2c1c4d,#6f4ba7 60%,#c6b3ff)",
+    "symbol": "\u2727",
+    "feature": "Password visibility & validation",
+    "accent": "#cbb6ff"
+  },
+  {
+    "id": "flow-nav",
+    "name": "Flow Navigation",
+    "kind": "Navigation Kit",
+    "price": 199,
+    "tag": "Components",
+    "desc": "Responsive animated navigation kit with mobile menu, active-section indicator and elegant micro-interactions.",
+    "gradient": "linear-gradient(135deg,#0d283e,#0f6185 60%,#63d9e6)",
+    "symbol": "\u2637",
+    "feature": "Mobile-first interactive navigation",
+    "accent": "#86e7ed"
+  }
+]
