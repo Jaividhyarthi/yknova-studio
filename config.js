@@ -1,2 +1,2 @@
-/* Set this to your deployed HTTPS backend, e.g. https://yknova-studio-api.onrender.com */
-window.YKNOVA_API_URL = '';
+/* Production API endpoint for YKNOVA Studio */
+window.YKNOVA_API_URL = 'https://yknova-studio-api.onrender.com';
